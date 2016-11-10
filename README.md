@@ -50,7 +50,7 @@ some new features and changes and no dependencies needed. So, you could transfor
 
 ## Examples
 
-### Scoped styles
+### Scoped style
 
 ```javascript
   var api = Absurd();
@@ -105,7 +105,7 @@ some new features and changes and no dependencies needed. So, you could transfor
     }
   });
   api.compile(function(err, css) {
-    console.log(css); // => body{margin-top: 20px;}body p{color: #000;}
+    console.log(css); // => body{margin-top: 20px;}body p{color: #765935;}
   }, { minify: true });
 ```
 
