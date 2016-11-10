@@ -1,0 +1,35 @@
+{
+  "bugs": {
+    "url": "https://github.com/InDIOS/absurd-css/issues"
+  },
+  "dependencies": {},
+  "description": "Implementation of the CSS preprocessing of Absurd.js without dependencies and some changes",
+  "devDependencies": {
+		"jasmine-node": "^1.14.5",
+		"jasmine-spec-reporter": "^2.7.0"
+	},
+  "directories": {},
+  "keywords": [
+    "css",
+    "preprocessor"
+  ],
+  "license": "MIT",
+  "main": "./index.js",
+  "maintainers": [
+    {
+      "name": "InDIOS",
+      "email": "robert04siel@gmail.com"
+    }
+  ],
+	"autor": "InDIOS",
+  "name": "absurd-css",
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/InDIOS/absurd-css.git"
+  },
+  "scripts": {
+    "test": "node ./tests/test-runner.js"
+  },
+  "version": "0.1.0"
+}
