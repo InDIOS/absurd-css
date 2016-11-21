@@ -24,10 +24,9 @@
   ],
   "author": "InDIOS",
   "name": "absurd-css",
-  "readme": "ERROR: No README data found!",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/InDIOS/absurd-css.git"
+    "url": "git://github.com/InDIOS/absurd-css.git"
   },
   "scripts": {
     "test": "node test-runner.js"
