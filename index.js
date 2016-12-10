@@ -1,5 +1,5 @@
 module.exports = function (func) {
-	api = require('./lib/API.js')();
+	api = require('./lib/api.js')();
 	if (typeof func === 'function') {
 		func(api);
 	} else if (typeof func === 'string') {
